@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://windchaser170721.github.io/xinquan-blog/',
+  url: 'https://windchaser170721.github.io/',
   lang: 'zh-CN',
   title: '山茶花小站',
   subtitle: '', // 把这行加上
