@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>山茶花小站</title>
+        <link>https://windchaser170721.github.io/</link>
+        <description>再次鼓起丧失的勇气</description>
+        <lastBuildDate>Tue, 28 Apr 2026 13:02:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>山茶花小站</title>
+            <url>https://windchaser170721.github.io/DSC_1257.JPG</url>
+            <link>https://windchaser170721.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2026 © qiu</copyright>
+        <atom:link href="https://windchaser170721.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[暂时先不走3d了]]></title>
+            <link>https://windchaser170721.github.io/posts/4-27</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/posts/4-27</guid>
+            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>post-train</h3>
+<p>想做post-train的话，范围太广了，记录记录大家在解决什么问题：<br>
+Snapflow ：做推理加速，自蒸馏减少去噪步数。KITE ：先把长视频压缩成一组关键帧，再把</p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/posts/4-27" target="_blank">https://windchaser170721.github.io/posts/4-27</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[思考3d]]></title>
+            <link>https://windchaser170721.github.io/posts/4-22</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/posts/4-22</guid>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>搞懂世界模型本身有个核心：把未来状态建模和动作建模放进一个统一学习框架里，让模型不只是“看懂当前”，而是“理解动作会怎样改变世界”</p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/posts/4-22" target="_blank">https://windchaser170721.github.io/posts/4-22</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[或许写毕设]]></title>
+            <link>https://windchaser170721.github.io/posts/4-21</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/posts/4-21</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>昨天其实在消化19号的事情以及处理法瑞，消化也还没弄完。昨晚蓝本规划。</p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/posts/4-21" target="_blank">https://windchaser170721.github.io/posts/4-21</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[整理准备汇报]]></title>
+            <link>https://windchaser170721.github.io/posts/4-19</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/posts/4-19</guid>
+            <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>详细展开昨天说的第一点</h2>
+<p>3D 几何到底该在策略里从哪里进、以什么频率进、用什么表示进。几何信息从哪里来、注入到 policy 的哪一层、解决的主要瓶颈是什么、代价是什么。VLA 里真正缺的到底</p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/posts/4-19" target="_blank">https://windchaser170721.github.io/posts/4-19</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[看具身3d]]></title>
+            <link>https://windchaser170721.github.io/posts/4-18</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/posts/4-18</guid>
+            <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>上次LoGeR没总结，下次吧（</p>
+</blockquote>
+<h2>调研</h2>
+<p>主线逐渐分成三层：第一层是给 VLA 注入几何先验，第二层是给 VLA 注入显式运动表征，第三层是直接学 3D world model / world</p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/posts/4-18" target="_blank">https://windchaser170721.github.io/posts/4-18</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[看些3d]]></title>
+            <link>https://windchaser170721.github.io/posts/4-16</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/posts/4-16</guid>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>VGGT</h2>
+<p>::: info 核心<br>
+把相机、深度、点图、跟踪特征统一进一个大 Transformer 里，直接多视图前向推理，尽量绕开传统 SfM/BA 那套慢速后处理<br>
+:::</p>
+<p><em><strong>输入</strong></em></p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/posts/4-16" target="_blank">https://windchaser170721.github.io/posts/4-16</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[看些WM WAM]]></title>
+            <link>https://windchaser170721.github.io/posts/4-15</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/posts/4-15</guid>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>H-WM</h2>
+<p>::: info 核心<br>
+H-WM 如何做到把符号推理的长程稳定性和视觉表征的感知 grounding结合起来？本质是“两层时间尺度 + 两层世界模型”<br>
+:::<br>
+逻辑世界模型本身，它本</p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/posts/4-15" target="_blank">https://windchaser170721.github.io/posts/4-15</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[四月计划]]></title>
+            <link>https://windchaser170721.github.io/posts/April.plan</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/posts/April.plan</guid>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<ul>
+<li>[ ] 检查毕设实验正常运行</li>
+<li>[ ] 调研WM WAM</li>
+<li>[ ] 继续调研VLA</li>
+<li>[ ] dvlm</li>
+<li>[ ] 复现一些项目，放四月总结</li>
+</ul>
+<p>&lt;mark style=&quot;background</p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/posts/April.plan" target="_blank">https://windchaser170721.github.io/posts/April.plan</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+    </channel>
+</rss>

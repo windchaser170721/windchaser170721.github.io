@@ -1,0 +1,1 @@
+import{K as e}from"./theme.DY5sbTrg.js";var t=e({defaults:{"@type":`PostalAddress`}});export{t as addressResolver};
