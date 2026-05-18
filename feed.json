@@ -1,0 +1,338 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "山茶花小站",
+    "home_page_url": "https://windchaser170721.github.io/",
+    "feed_url": "https://windchaser170721.github.io/feed.json",
+    "description": "再次鼓起丧失的勇气",
+    "icon": "https://windchaser170721.github.io/DSC_1257.JPG",
+    "author": {
+        "name": "qiu",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://windchaser170721.github.io/posts/5-18",
+            "content_html": "<p>Mr.si又针对方向讨论良久，正式开启rl post train部分，先简单计划一下这周，这周或许要换电脑（</p>\n<p>毕设22周五答辩</p>\n<ul>\n<li>[ ] 图1重画</li>\n<li>[ ] 图2重画</li>\n<li>[ ] 图3重画</li>\n<li></li>\n</ul>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-18\" target=\"_blank\">https://windchaser170721.github.io/posts/5-18</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-18",
+            "title": "开启rl post-train",
+            "date_modified": "2026-05-18T00:00:00.000Z",
+            "date_published": "2026-05-18T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-17",
+            "content_html": "<p>Mr.si提出好多要求，五点半前弄完</p>\n<ul>\n<li>[x] 修改掉所有不合适的英文表述，非专有名词改成中文表述</li>\n<li>[x] 增加画图</li>\n<li>[x] 修改方法图</li>\n<li>[x] 引用表述格式修正</li>\n<li>[x] ppt</li>\n</ul>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-17\" target=\"_blank\">https://windchaser170721.github.io/posts/5-17</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-17",
+            "title": "毕设六小时",
+            "date_modified": "2026-05-17T00:00:00.000Z",
+            "date_published": "2026-05-17T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-13",
+            "content_html": "<ul>\n<li>[ ] 明天记得录脸 （周四上午）</li>\n</ul>\n<p>本周：毕设22号答辩，交ppt，找时间跟mr.si聊一下，医院。明天上午整理思路找jy<br>\n聊一下。提出一点问题，需要解决什么问题，可能的解决方式。</p>\n<p>毕设 t</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-13\" target=\"_blank\">https://windchaser170721.github.io/posts/5-13</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-13",
+            "title": "空白",
+            "date_modified": "2026-05-13T00:00:00.000Z",
+            "date_published": "2026-05-13T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-16",
+            "content_html": "<p>还得是省人民，省人民夏济平主任，无敌;皮研所林鹏是个傻福</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-16\" target=\"_blank\">https://windchaser170721.github.io/posts/5-16</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-16",
+            "title": "省人民",
+            "date_modified": "2026-05-13T00:00:00.000Z",
+            "date_published": "2026-05-13T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-12",
+            "content_html": "<ul>\n<li>[ ] 记得录脸 （周四上午）</li>\n<li>[ ] 毕设-检查引用</li>\n<li>[x] 毕设-优化aigc</li>\n<li>[x] 还书</li>\n<li>[x] 研究生合同</li>\n</ul>\n<p>这次不一样：5-15<br>\n北野武的小酒馆：5-21<br>\n研究生</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-12\" target=\"_blank\">https://windchaser170721.github.io/posts/5-12</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-12",
+            "title": "毕设",
+            "date_modified": "2026-05-12T00:00:00.000Z",
+            "date_published": "2026-05-12T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-11",
+            "content_html": "<h3>Counterfactual VLA</h3>\n<p>反思，reasoning，drive相关</p>\n<h3>Adaptive Action Chunking</h3>\n<p>提出一种动作熵，推理时可调整的action ch</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-11\" target=\"_blank\">https://windchaser170721.github.io/posts/5-11</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-11",
+            "title": "看点26cvpr",
+            "date_modified": "2026-05-11T00:00:00.000Z",
+            "date_published": "2026-05-11T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-10",
+            "content_html": "<ul>\n<li>[x] 整理mem实验</li>\n<li>[ ] 研究生调档、思品考核及签订定向合同</li>\n<li>[x] 汇报准备</li>\n<li>[ ] 下周一（明天）记得录脸</li>\n<li>[ ] 检查引用</li>\n</ul>\n<p>[通知](<a href=\"https://yzb\">https://yzb</a>.</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-10\" target=\"_blank\">https://windchaser170721.github.io/posts/5-10</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-10",
+            "title": "准备汇报",
+            "date_modified": "2026-05-10T00:00:00.000Z",
+            "date_published": "2026-05-10T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-9",
+            "content_html": "<ul>\n<li>[x] 毕设-&gt;latex</li>\n<li>[x] 毕设实验检查</li>\n<li>[x] 毕设+引用</li>\n<li>[x] 毕设+图片-现状</li>\n<li>[x] 毕设+图片-框架</li>\n<li>[x] 毕设+图片-实验效果展示</li>\n</ul>\n<p>维普查出来34，</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-9\" target=\"_blank\">https://windchaser170721.github.io/posts/5-9</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-9",
+            "title": "毕设ddl1",
+            "date_modified": "2026-05-09T00:00:00.000Z",
+            "date_published": "2026-05-09T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-8",
+            "content_html": "<p>下午跟yrr台球复建，晚上足球小场复建</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-8\" target=\"_blank\">https://windchaser170721.github.io/posts/5-8</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-8",
+            "title": "毕设ddl2",
+            "date_modified": "2026-05-08T00:00:00.000Z",
+            "date_published": "2026-05-08T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-7",
+            "content_html": "<ul>\n<li>[x] 递签</li>\n<li>[ ] 毕设+引用</li>\n<li>[ ] 毕设+图片</li>\n<li>[ ] 整理mem实验</li>\n</ul>\n<p>今天主要申请签证了，zzxzzf请吃饭，回去看到个加3d感知4d推理的26cvpr，3d/4d还是得</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-7\" target=\"_blank\">https://windchaser170721.github.io/posts/5-7</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-7",
+            "title": "签证",
+            "date_modified": "2026-05-07T00:00:00.000Z",
+            "date_published": "2026-05-07T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-6",
+            "content_html": "<ul>\n<li>[x] 第一遍：去掉太ai的部分</li>\n<li>[x] 第二遍：行文结构固定</li>\n<li>[x] 导论</li>\n<li>[x] 相关理论</li>\n<li>[x] 预备知识</li>\n<li>[x] 方法设计与实现</li>\n<li>[x] 实验设计</li>\n<li>[x]</li>\n</ul>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-6\" target=\"_blank\">https://windchaser170721.github.io/posts/5-6</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-6",
+            "title": "写毕设",
+            "date_modified": "2026-05-06T00:00:00.000Z",
+            "date_published": "2026-05-06T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-5",
+            "content_html": "<p>VLA 面临的结论：</p>\n<ol>\n<li>语言本身信息量就不足以教会模型做动作，人类不会用详细的语言来描述如何行动(如PI的博客Moravec's Paradox中提到)</li>\n<li>从具身数据上看，语言和视觉数</li>\n</ol>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-5\" target=\"_blank\">https://windchaser170721.github.io/posts/5-5</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-5",
+            "title": "学 RL post train",
+            "date_modified": "2026-05-05T00:00:00.000Z",
+            "date_published": "2026-05-05T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-4",
+            "content_html": "<ul>\n<li>[ ] MEM1</li>\n<li>[ ] Memory-R1</li>\n<li>[ ] Mem-α</li>\n<li>[ ] MemRL</li>\n<li>[ ] MemPO</li>\n<li>[ ] 整理js1 js4数据权重存放的位置</li>\n</ul>\n<h3>MEM1</h3>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-4\" target=\"_blank\">https://windchaser170721.github.io/posts/5-4</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-4",
+            "title": "学 RL post train",
+            "date_modified": "2026-05-04T00:00:00.000Z",
+            "date_published": "2026-05-04T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-3",
+            "content_html": "<ul>\n<li>[ ] 调研 rl post train</li>\n<li>[ ] 毕设改一版 2h</li>\n<li>[ ]</li>\n</ul>\n<p>pi两个base权重和基本训练都准备好,如何得到提升?</p>\n<ol>\n<li>如何构建RL,看一些RL辅助LLM后训练</li>\n</ol>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-3\" target=\"_blank\">https://windchaser170721.github.io/posts/5-3</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-3",
+            "title": "mem-exp-stage1",
+            "date_modified": "2026-05-03T00:00:00.000Z",
+            "date_published": "2026-05-03T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-2",
+            "content_html": "<ul>\n<li>[x] pi05开训</li>\n<li>[x] xvla开训</li>\n<li>[x] 解决modelscope权重问题</li>\n<li>[x] codex连接v1</li>\n<li>[ ] v2下载codex</li>\n<li>[x] 整理重要指令</li>\n<li>[x</li>\n</ul>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-2\" target=\"_blank\">https://windchaser170721.github.io/posts/5-2</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-2",
+            "title": "mem-exp-stage1",
+            "date_modified": "2026-05-02T00:00:00.000Z",
+            "date_published": "2026-05-02T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/5-1",
+            "content_html": "<pre><code class=\"language-bash\"># train\n\n# eval\ncd /mnt/data3/RMBench/policy/X-VLA\nconda activate XVLA\nrm -f </code></pre>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/5-1\" target=\"_blank\">https://windchaser170721.github.io/posts/5-1</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/5-1",
+            "title": "mem-exp-stage1",
+            "date_modified": "2026-05-01T00:00:00.000Z",
+            "date_published": "2026-05-01T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/May.plan",
+            "content_html": "<ul>\n<li>[ ] 检查毕设实验正常运行</li>\n<li>[ ] 整理不同领域mem方法</li>\n<li>[ ] mem-rmbench跑现有方法并整理</li>\n<li>[ ] mem-rmbench修改baseline</li>\n<li>[ ] 继续关注分</li>\n</ul>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/May.plan\" target=\"_blank\">https://windchaser170721.github.io/posts/May.plan</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/May.plan",
+            "title": "五月计划",
+            "date_modified": "2026-05-01T00:00:00.000Z",
+            "date_published": "2026-05-01T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/4-30",
+            "content_html": "<p>benchmark整理：</p>\n<ol>\n<li>memorybench : [v1] Mon, 20 Oct 2025 - [v4] Fri, 12 Dec 2025。评测 LLM/LLM Agent 的记忆能力和</li>\n</ol>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/4-30\" target=\"_blank\">https://windchaser170721.github.io/posts/4-30</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/4-30",
+            "title": "mem-exp-stage1",
+            "date_modified": "2026-04-30T00:00:00.000Z",
+            "date_published": "2026-04-30T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/4-29",
+            "content_html": "<h1>exp</h1>\n<p>dsv4还没看.研究memory，两个memory-based tasks：Mikasa-Robo [1] and MemoryBench [2]。搭rlagent。</p>\n<p>[mikasa</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/4-29\" target=\"_blank\">https://windchaser170721.github.io/posts/4-29</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/4-29",
+            "title": "mem-exp-stage1",
+            "date_modified": "2026-04-29T00:00:00.000Z",
+            "date_published": "2026-04-29T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/4-27",
+            "content_html": "<h3>post-train</h3>\n<p>想做post-train的话，范围太广了，记录记录大家在解决什么问题：<br>\nSnapflow ：做推理加速，自蒸馏减少去噪步数。KITE ：先把长视频压缩成一组关键帧，再把</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/4-27\" target=\"_blank\">https://windchaser170721.github.io/posts/4-27</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/4-27",
+            "title": "暂时先不走3d了",
+            "date_modified": "2026-04-27T00:00:00.000Z",
+            "date_published": "2026-04-27T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/4-22",
+            "content_html": "<p>搞懂世界模型本身有个核心：把未来状态建模和动作建模放进一个统一学习框架里，让模型不只是“看懂当前”，而是“理解动作会怎样改变世界”</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/4-22\" target=\"_blank\">https://windchaser170721.github.io/posts/4-22</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/4-22",
+            "title": "思考3d",
+            "date_modified": "2026-04-23T00:00:00.000Z",
+            "date_published": "2026-04-23T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/4-21",
+            "content_html": "<p>昨天其实在消化19号的事情以及处理法瑞，消化也还没弄完。昨晚蓝本规划。</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/4-21\" target=\"_blank\">https://windchaser170721.github.io/posts/4-21</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/4-21",
+            "title": "或许写毕设",
+            "date_modified": "2026-04-21T00:00:00.000Z",
+            "date_published": "2026-04-21T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/4-19",
+            "content_html": "<h2>详细展开昨天说的第一点</h2>\n<p>3D 几何到底该在策略里从哪里进、以什么频率进、用什么表示进。几何信息从哪里来、注入到 policy 的哪一层、解决的主要瓶颈是什么、代价是什么。VLA 里真正缺的到底</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/4-19\" target=\"_blank\">https://windchaser170721.github.io/posts/4-19</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/4-19",
+            "title": "整理准备汇报",
+            "date_modified": "2026-04-19T00:00:00.000Z",
+            "date_published": "2026-04-19T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/4-18",
+            "content_html": "<blockquote>\n<p>上次LoGeR没总结，下次吧（</p>\n</blockquote>\n<h2>调研</h2>\n<p>主线逐渐分成三层：第一层是给 VLA 注入几何先验，第二层是给 VLA 注入显式运动表征，第三层是直接学 3D world model / world</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/4-18\" target=\"_blank\">https://windchaser170721.github.io/posts/4-18</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/4-18",
+            "title": "看具身3d",
+            "date_modified": "2026-04-18T00:00:00.000Z",
+            "date_published": "2026-04-18T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/4-16",
+            "content_html": "<h2>VGGT</h2>\n<p>::: info 核心<br>\n把相机、深度、点图、跟踪特征统一进一个大 Transformer 里，直接多视图前向推理，尽量绕开传统 SfM/BA 那套慢速后处理<br>\n:::</p>\n<p><em><strong>输入</strong></em></p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/4-16\" target=\"_blank\">https://windchaser170721.github.io/posts/4-16</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/4-16",
+            "title": "看些3d",
+            "date_modified": "2026-04-16T00:00:00.000Z",
+            "date_published": "2026-04-16T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/4-15",
+            "content_html": "<h2>H-WM</h2>\n<p>::: info 核心<br>\nH-WM 如何做到把符号推理的长程稳定性和视觉表征的感知 grounding结合起来？本质是“两层时间尺度 + 两层世界模型”<br>\n:::<br>\n逻辑世界模型本身，它本</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/4-15\" target=\"_blank\">https://windchaser170721.github.io/posts/4-15</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/4-15",
+            "title": "看些WM WAM",
+            "date_modified": "2026-04-15T00:00:00.000Z",
+            "date_published": "2026-04-15T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/posts/April.plan",
+            "content_html": "<ul>\n<li>[x] 检查毕设实验正常运行</li>\n<li>[x] 调研WM WAM</li>\n<li>[x] 继续调研VLA</li>\n<li>[ ] dvlm</li>\n<li>[x] 复现一些项目，放四月总结</li>\n</ul>\n<p>&lt;mark style=&quot;background</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/posts/April.plan\" target=\"_blank\">https://windchaser170721.github.io/posts/April.plan</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/posts/April.plan",
+            "title": "四月计划",
+            "date_modified": "2026-04-01T00:00:00.000Z",
+            "date_published": "2026-04-01T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
