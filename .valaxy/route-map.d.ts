@@ -132,9 +132,142 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/4-27': RouteRecordInfo<
+      '/posts/4-27',
+      '/posts/4-27',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/4-29': RouteRecordInfo<
+      '/posts/4-29',
+      '/posts/4-29',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/4-30': RouteRecordInfo<
+      '/posts/4-30',
+      '/posts/4-30',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-1': RouteRecordInfo<
+      '/posts/5-1',
+      '/posts/5-1',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-10': RouteRecordInfo<
+      '/posts/5-10',
+      '/posts/5-10',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-11': RouteRecordInfo<
+      '/posts/5-11',
+      '/posts/5-11',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-12': RouteRecordInfo<
+      '/posts/5-12',
+      '/posts/5-12',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-13': RouteRecordInfo<
+      '/posts/5-13',
+      '/posts/5-13',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-16': RouteRecordInfo<
+      '/posts/5-16',
+      '/posts/5-16',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-17': RouteRecordInfo<
+      '/posts/5-17',
+      '/posts/5-17',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-2': RouteRecordInfo<
+      '/posts/5-2',
+      '/posts/5-2',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-3': RouteRecordInfo<
+      '/posts/5-3',
+      '/posts/5-3',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-4': RouteRecordInfo<
+      '/posts/5-4',
+      '/posts/5-4',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-5': RouteRecordInfo<
+      '/posts/5-5',
+      '/posts/5-5',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-6': RouteRecordInfo<
+      '/posts/5-6',
+      '/posts/5-6',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-7': RouteRecordInfo<
+      '/posts/5-7',
+      '/posts/5-7',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-8': RouteRecordInfo<
+      '/posts/5-8',
+      '/posts/5-8',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/5-9': RouteRecordInfo<
+      '/posts/5-9',
+      '/posts/5-9',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/April.plan': RouteRecordInfo<
       '/posts/April.plan',
       '/posts/April/plan',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/May.plan': RouteRecordInfo<
+      '/posts/May.plan',
+      '/posts/May/plan',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -249,9 +382,123 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
+    'pages/posts/4-27.md': {
+      routes:
+        | '/posts/4-27'
+      views:
+        | never
+    }
+    'pages/posts/4-29.md': {
+      routes:
+        | '/posts/4-29'
+      views:
+        | never
+    }
+    'pages/posts/4-30.md': {
+      routes:
+        | '/posts/4-30'
+      views:
+        | never
+    }
+    'pages/posts/5-1.md': {
+      routes:
+        | '/posts/5-1'
+      views:
+        | never
+    }
+    'pages/posts/5-10.md': {
+      routes:
+        | '/posts/5-10'
+      views:
+        | never
+    }
+    'pages/posts/5-11.md': {
+      routes:
+        | '/posts/5-11'
+      views:
+        | never
+    }
+    'pages/posts/5-12.md': {
+      routes:
+        | '/posts/5-12'
+      views:
+        | never
+    }
+    'pages/posts/5-13.md': {
+      routes:
+        | '/posts/5-13'
+      views:
+        | never
+    }
+    'pages/posts/5-16.md': {
+      routes:
+        | '/posts/5-16'
+      views:
+        | never
+    }
+    'pages/posts/5-17.md': {
+      routes:
+        | '/posts/5-17'
+      views:
+        | never
+    }
+    'pages/posts/5-2.md': {
+      routes:
+        | '/posts/5-2'
+      views:
+        | never
+    }
+    'pages/posts/5-3.md': {
+      routes:
+        | '/posts/5-3'
+      views:
+        | never
+    }
+    'pages/posts/5-4.md': {
+      routes:
+        | '/posts/5-4'
+      views:
+        | never
+    }
+    'pages/posts/5-5.md': {
+      routes:
+        | '/posts/5-5'
+      views:
+        | never
+    }
+    'pages/posts/5-6.md': {
+      routes:
+        | '/posts/5-6'
+      views:
+        | never
+    }
+    'pages/posts/5-7.md': {
+      routes:
+        | '/posts/5-7'
+      views:
+        | never
+    }
+    'pages/posts/5-8.md': {
+      routes:
+        | '/posts/5-8'
+      views:
+        | never
+    }
+    'pages/posts/5-9.md': {
+      routes:
+        | '/posts/5-9'
+      views:
+        | never
+    }
     'pages/posts/April.plan.md': {
       routes:
         | '/posts/April.plan'
+      views:
+        | never
+    }
+    'pages/posts/May.plan.md': {
+      routes:
+        | '/posts/May.plan'
       views:
         | never
     }

@@ -6,13 +6,13 @@ categories: 计划
 copyright: false
 tags:
   - 规划
-top: 1
+# top: 1
 ---
-- [ ] 检查毕设实验正常运行
-- [ ] 调研WM WAM
-- [ ] 继续调研VLA
+- [x] 检查毕设实验正常运行
+- [x] 调研WM WAM
+- [x] 继续调研VLA
 - [ ] dvlm
-- [ ] 复现一些项目，放四月总结
+- [x] 复现一些项目，放四月总结
 
 <mark style="background-color: #fef3c7; color: #92400e; padding: 0 4px; border-radius: 4px;">这里是认知黄高亮</mark>
 
